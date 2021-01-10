@@ -1,4 +1,4 @@
-### ![header](https://capsule-render.vercel.app/api?type=wave&color=_B4C3FF&height=300&section=header&text=mmindoong&fontColor=FFAAAA&fontSize=90)
+### ![header](https://capsule-render.vercel.app/api?type=wave&color=B4C3FF&height=300&section=header&text=mmindoong&fontColor=FFAAAA&fontSize=90)
 
 <!--
 **mmindoong/mmindoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,9 +1,9 @@
-### ![header](https://capsule-render.vercel.app/api?type=Rounded&color=B4C3FF&height=200&section=header&text=mmindoong&fontColor=FFFFFF&fontSize=90)
 ## Profile🎨
 - ✨ Kim min jeong✨ 
 - KHUNGHEE UNIVERSITY , SOFTWARE CONVERGENCE 20
 - Game Contents Track
 - san012@khu.ac.kr
+- https://velog.io/@mmindoong
 
 
 > "For the past 33years, I have looked in the mirror every morning and asked myself: 'If today were the last day of my life, would I want to do what I am about to do today?' And whenever the answer has been 'No' for too many days in a row, I know I need to change something." by Steve Jobs

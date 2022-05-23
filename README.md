@@ -4,7 +4,7 @@
 - 𝖦𝖺𝗆𝖾 𝖢𝗈𝗇𝗍𝖾𝗇𝗍𝗌 𝖳𝗋𝖺𝖼𝗄
 - san012@khu.ac.kr
 - https://velog.io/@mmindoong
-- [Hello, Mmindoong Notion](https://www.notion.so/Hello-c28384d5b0094d3e85021debdaa2e780, "Notion")
+- [Hello, Mmindoong Notion](https://www.notion.so/Hello-c28384d5b0094d3e85021debdaa2e780)
 
 
 > "For the past 33years, I have looked in the mirror every morning and asked myself: 'If today were the last day of my life, would I want to do what I am about to do today?' And whenever the answer has been 'No' for too many days in a row, I know I need to change something." by Steve Jobs

@@ -1,22 +1,23 @@
-## Profile🎨
-- ✨ ⓗⓔⓛⓛⓞ, ⓜⓜⓘⓝⓓⓞⓞⓝⓖ ✨ 
-- KHUNGHEE UNIVERSITY , SOFTWARE CONVERGENCE 20
-- 𝖦𝖺𝗆𝖾 𝖢𝗈𝗇𝗍𝖾𝗇𝗍𝗌 𝖳𝗋𝖺𝖼𝗄
-- san012@khu.ac.kr
-- https://velog.io/@mmindoong
-- [Hello, Mmindoong Notion](https://www.notion.so/Hello-c28384d5b0094d3e85021debdaa2e780)
+## Profile 🎨
+- 🎓 A Student interested in `Game Development`, `Unreal Engine`, `C++ Programming`
+- 🏛 KHUNGHEE UNIVERSITY , SOFTWARE CONVERGENCE 20
+- 🎮 Student of Game Contents Track
+- 👩🏻‍💻 Junior software developer currently improving my `C++`
+- 📚 Longlife learner and daydreamer
+- ✉ Contact to san012@khu.ac.kr
+- 👋🏻 [Hello, mmindoong Website](https://www.mmindoong.xyz)
+</br>
 
+## Recent achievements 🏆
+- 🥈 2022 동아리 단합 공모전 우수상 (2022.08.25)
+- 📝 다우기술 플랫폼서비스팀 학생인턴 (2022.07.18 - 2022.08.26)
+- 🏆 2022 Khuthon 해커톤 대상 (2022.10.01)
+- 📝 펄어비스x경희소융 인재양성 프로그램 (2022.9 - 2023.2)
+- 🥈 경희대학교 실감미디어 혁신공유대학 경진대회 우수상 (2022.12.28)
+- 📝 스마일게이트 언리얼 프로그래머 교육생 (2023.3 - Recent)
+</br>
 
-> "For the past 33years, I have looked in the mirror every morning and asked myself: 'If today were the last day of my life, would I want to do what I am about to do today?' And whenever the answer has been 'No' for too many days in a row, I know I need to change something." by Steve Jobs
-
-## I Love..💖
-- Driving
-- Playing 'League of Legends'
-- Photoshop & Illustration
-- Take pictures
-
-
-## I Study..💻
+## I Study.. 💻
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
 <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white">
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=OpenGL&logoColor=white">
@@ -26,8 +27,9 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
 
+</br>
 
-## Work Experience🎹
+## Work Experience 🎹
 - Student Council of Publicity Dept.of Software Convergence
 - SWTUBE; Design & Publicity department
 - LUDENS; Game Development

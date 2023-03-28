@@ -30,6 +30,6 @@
 </br>
 
 ## Work Experience 🎹
-- Student Council of Publicity Dept.of Software Convergence
-- SWTUBE; Design & Publicity department
-- LUDENS; Game Development
+- Student Council of Publicity Dept.of Software Convergence (2020)
+- SWTUBE; Design & Publicity department (2020)
+- LUDENS; Game Development Dept.of Publicity (2021 - Recent)

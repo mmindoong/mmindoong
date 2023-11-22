@@ -5,7 +5,6 @@
 - 👩🏻‍💻 Junior software developer currently improving my `C++`
 - 📚 Longlife learner and daydreamer
 - ✉ Contact to san012@khu.ac.kr
-- 👋🏻 [Hello, mmindoong Website](https://www.mmindoong.xyz)
 </br>
 
 ## Recent achievements 🏆

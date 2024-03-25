@@ -1,5 +1,5 @@
 ## Profile 🎨
-- 🎓 A Student interested in `Game Development`, `Unreal Engine`, `C++ Programming`
+- 🎓 A Programmer interested in `Game Development`, `Unreal Engine`, `C++ Programming`
 - 🏛 KHUNGHEE UNIVERSITY , SOFTWARE CONVERGENCE 20
 - 🎮 Student of Game Contents Track
 - 👩🏻‍💻 Junior software developer currently improving my `C++`
@@ -13,7 +13,8 @@
 - 🏆 2022 Khuthon 해커톤 대상 (2022.10.01)
 - 📝 펄어비스x경희소융 인재양성 프로그램 (2022.9 - 2023.2)
 - 🥈 경희대학교 실감미디어 혁신공유대학 경진대회 우수상 (2022.12.28)
-- 📝 스마일게이트 언리얼 프로그래머 교육생 (2023.3 - Recent)
+- 📝 스마일게이트 언리얼 프로그래머 교육생 (2023.3 - 2023.7)
+- 🗂️ 스마일게이트 엔터테인먼트 게임 프로그래머 (2023.9 - Recent)
 </br>
 
 ## I Study.. 💻
@@ -31,4 +32,4 @@
 ## Work Experience 🎹
 - Student Council of Publicity Dept.of Software Convergence (2020)
 - SWTUBE; Design & Publicity department (2020)
-- LUDENS; Game Development Dept.of Publicity (2021 - Recent)
+- LUDENS; Game Development Dept.of Publicity (2021 - 2023)
